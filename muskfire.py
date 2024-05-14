@@ -1,6 +1,5 @@
 
 import getpass
-  os.system('clear')  # Clears the terminal screen
     print("\033[1;32m")
 def login():
     print("Gest username")
